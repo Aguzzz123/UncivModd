@@ -1,22 +1,21 @@
 [
     {
-		"name": "Adelle Corp",
-		"leaderName": "Kane",
+		"name": "3er Reich",
+		"leaderName": "Adolf Hitler",
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Sample text.",
-		"startIntroPart2": "Sample text.",
-		"declaringWar": "You stand in the way of my people. Let us solve this like warriors!",
-		"attacked": "You dare have the courage to challenge nod, but no fear, for I will sweep you out of history.",
-		"defeated": "You have the guts to call my body a corpse but beware, I know what will happen to our future- our tiberium future.",
-		"introduction": "If I am cut, Do I not bleed?",
-		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
+		"startIntroPart1": " He was not a bad guy, he was only misunderstood.",
+		"startIntroPart2": "Oh, shit. Here we go again.",
+		"declaringWar": "Nain nain nain!",
+		"attacked": "Nain nain nain!.",
+		"defeated": "Nain nain nain!.",
+		"introduction": "Nain nain nain!",
+		"tradeRequest": "Nain nain nain!",
 		"outerColor": [0,0,0],
 		"innerColor": [142,22,0],
-		"uniqueName": "Word of Nod",
-		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+		"uniqueName": "Lebensraum",
+		"uniques": ["[10]% growth [in annexed cities]",""],
+		"cities": ["Berlín","Hamburgo","Múnich","Colonia","Fráncfort","Stuttgart","Baden-Wurtemberg","Düsseldorf","Leipzig","Dortmund","Essen","Renania","Bremen","Dresde","Sajonia","Hanóver","Núremberg"]
 	},
 
 	{
