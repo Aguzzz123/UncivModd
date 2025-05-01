@@ -1,12 +1,11 @@
 [
 	{
 	"name": "Obelisco",
+		"cost": 125,
+		"happiness": 2,
 		"culture": 3,
-		"greatPersonPoints": {"Great Merchant": 1},
-		"isWonder": true,
-		"uniques": ["Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
-			"[+2 Gold] from [Marble] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]"],
-		"requiredTech": "Masonry",
-		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
-	}
-]
+		"uniqueTo": "Argentina",
+		"isNationalWonder": true,
+		"uniques": ["[+40]% Great Person generation [in all cities]","[+3 Culture, +3 Gold] from every [Great Improvements]"],
+		// "requiredTech": "Horseback Riding"
+],
