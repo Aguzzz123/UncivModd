@@ -6,15 +6,15 @@
 
 		"startIntroPart1": " He was not a bad guy, he was only misunderstood.",
 		"startIntroPart2": "Oh, shit. Here we go again.",
-		"declaringWar": "Nain nain nain!",
+		"declaringWa": "Nain nain nain!",
 		"attacked": "Nain nain nain!.",
-		"defeated": "Nain nain nain!.",
+		"defeated": "Nain nairn nain!.",
 		"introduction": "Nain nain nain!",
 		"tradeRequest": "Nain nain nain!",
 		"outerColor": [0,0,0],
 		"innerColor": [142,22,0],
 		"uniqueName": "Lebensraum",
-		"uniques": ["[+20]% growth [in annexed cities]","¨[-20]% Unhappiness from [Population] [in annexed cities]","[+20]% [Culture]"],
+		"uniques": ["[+20]% growth [in annexed cities]","¨[-20]% Unhappiness from [Population] [in annexed cities]","[+20]% [Culture] [in annexed cities]"],
 		"cities": ["Berlín","Hamburgo","Múnich","Colonia","Fráncfort","Stuttgart","Baden-Wurtemberg","Düsseldorf","Leipzig","Dortmund","Essen","Renania","Bremen","Dresde","Sajonia","Hanóver","Núremberg"]
 	},
 
@@ -33,8 +33,7 @@
 		"outerColor": [139,0,0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Liberator of America",
-		"uniques": [""],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+		"uniques": ["[-33]% City-State Influence degradation <when at war>", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "Earn [150]% of killed [Enemy] unit's [Strength] as [Culture] <when fighting units from a Civilization with more Cities than you>"],
+		"cities": ["Buenos Aires","Cordoba","Rosario","Santiago del Estero","Tucuman", "Mendoza","Santa Fe","Salta","La Plata","Jujuy","La Rioja","Corrientes"]
 	}
 ]
