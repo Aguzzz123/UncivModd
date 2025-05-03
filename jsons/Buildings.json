@@ -7,5 +7,5 @@
 		"uniqueTo": "Argentina",
 		"isNationalWonder": true,
 		"uniques": ["[+40]% Great Person generation [in all cities]","[+3 Culture, +3 Gold] from every [Great Improvements]"],
-		// "requiredTech": "Horseback Riding"
+		// "requiredTech": "Horseback Riding" //
 ],
